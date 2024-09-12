@@ -18,3 +18,5 @@ Trying to see if git works offline
 added a html file
 
 updated this on main branch
+
+Having fun with git
